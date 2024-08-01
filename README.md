@@ -55,3 +55,4 @@ Missing a configuration? [Raise an issue](https://github.com/roma-lukashik/anima
 
 <h2>License</h2>
 <a href="https://github.com/roma-lukashik/animal-avatar-generator/blob/master/LICENSE">MIT</a>
+# avatars
